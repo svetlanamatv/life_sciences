@@ -1,1 +1,8 @@
 .ipynb_checkpoints/
+data/
+*.vcf
+*.gz
+*.tbi
+*.panel
+*.tvs
+*.csv
